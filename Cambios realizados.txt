@@ -1,0 +1,10 @@
+CAMBIOS REALIZADOS EN HTML:
+- Añadí estructura semántica con header, main, section y footer.
+- Incorporé enlaces a LinkedIn y correo electrónico.
+- Añadí iconos para hacerlo más visual.
+- Organicé las secciones (Objetivo, Aptitudes, Experiencia, Educación).
+
+CAMBIOS REALIZADOS EN CSS:
+- Apliqué colores azul y blanco con fuente moderna (Poppins).
+- Añadí sombras, bordes redondeados y márgenes amplios.
+- Personalicé encabezados y listas para mejorar la legibilidad.
